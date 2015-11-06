@@ -1,0 +1,1 @@
+for %%x in (1 2 3 4 5) do (start java -jar c1.jar 192.168.0.15 6013 5 %%x 80000 0 0 1 0 4)

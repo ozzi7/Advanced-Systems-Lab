@@ -1,0 +1,1 @@
+SELECT insert_starting_values(100);

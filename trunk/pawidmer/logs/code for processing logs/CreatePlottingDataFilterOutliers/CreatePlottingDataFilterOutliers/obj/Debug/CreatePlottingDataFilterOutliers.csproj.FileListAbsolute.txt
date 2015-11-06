@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\CreatePlottingDataFilterOutliers\CreatePlottingDataFilterOutliers\bin\Debug\CreatePlottingDataFilterOutliers.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\CreatePlottingDataFilterOutliers\CreatePlottingDataFilterOutliers\bin\Debug\CreatePlottingDataFilterOutliers.exe
+c:\users\admin\documents\visual studio 2015\Projects\CreatePlottingDataFilterOutliers\CreatePlottingDataFilterOutliers\bin\Debug\CreatePlottingDataFilterOutliers.pdb
+c:\users\admin\documents\visual studio 2015\Projects\CreatePlottingDataFilterOutliers\CreatePlottingDataFilterOutliers\obj\Debug\CreatePlottingDataFilterOutliers.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\CreatePlottingDataFilterOutliers\CreatePlottingDataFilterOutliers\obj\Debug\CreatePlottingDataFilterOutliers.exe
+c:\users\admin\documents\visual studio 2015\Projects\CreatePlottingDataFilterOutliers\CreatePlottingDataFilterOutliers\obj\Debug\CreatePlottingDataFilterOutliers.pdb

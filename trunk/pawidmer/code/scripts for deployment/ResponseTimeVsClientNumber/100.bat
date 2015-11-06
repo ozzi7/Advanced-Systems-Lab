@@ -1,0 +1,1 @@
+for /l %%x in (1 1 100) do (start java -jar c1.jar 192.168.0.15 6013 100 %%x 80000 0 0 1 0 4)
