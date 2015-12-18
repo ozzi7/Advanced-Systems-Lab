@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\MeanValueAnalysis\MeanValueAnalysis\bin\Debug\MeanValueAnalysis.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\MeanValueAnalysis\MeanValueAnalysis\bin\Debug\MeanValueAnalysis.exe
+c:\users\admin\documents\visual studio 2015\Projects\MeanValueAnalysis\MeanValueAnalysis\bin\Debug\MeanValueAnalysis.pdb
+c:\users\admin\documents\visual studio 2015\Projects\MeanValueAnalysis\MeanValueAnalysis\obj\Debug\MeanValueAnalysis.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\MeanValueAnalysis\MeanValueAnalysis\obj\Debug\MeanValueAnalysis.exe
+c:\users\admin\documents\visual studio 2015\Projects\MeanValueAnalysis\MeanValueAnalysis\obj\Debug\MeanValueAnalysis.pdb

@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\serviceTimeMW\serviceTimeMW\bin\Debug\serviceTimeMW.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\serviceTimeMW\serviceTimeMW\bin\Debug\serviceTimeMW.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\serviceTimeMW\serviceTimeMW\bin\Debug\serviceTimeMW.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\serviceTimeMW\serviceTimeMW\obj\Debug\serviceTimeMW.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\serviceTimeMW\serviceTimeMW\obj\Debug\serviceTimeMW.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\serviceTimeMW\serviceTimeMW\obj\Debug\serviceTimeMW.pdb
