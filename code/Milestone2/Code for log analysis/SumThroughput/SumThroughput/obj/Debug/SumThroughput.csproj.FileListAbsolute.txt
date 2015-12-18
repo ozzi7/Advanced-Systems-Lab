@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\SumThroughput\SumThroughput\bin\Debug\SumThroughput.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\SumThroughput\SumThroughput\bin\Debug\SumThroughput.exe
+c:\users\admin\documents\visual studio 2015\Projects\SumThroughput\SumThroughput\bin\Debug\SumThroughput.pdb
+c:\users\admin\documents\visual studio 2015\Projects\SumThroughput\SumThroughput\obj\Debug\SumThroughput.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\SumThroughput\SumThroughput\obj\Debug\SumThroughput.exe
+c:\users\admin\documents\visual studio 2015\Projects\SumThroughput\SumThroughput\obj\Debug\SumThroughput.pdb

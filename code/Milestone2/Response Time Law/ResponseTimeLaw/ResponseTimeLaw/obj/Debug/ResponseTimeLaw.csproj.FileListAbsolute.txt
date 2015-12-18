@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\ResponseTimeLaw\ResponseTimeLaw\bin\Debug\ResponseTimeLaw.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\ResponseTimeLaw\ResponseTimeLaw\bin\Debug\ResponseTimeLaw.exe
+c:\users\admin\documents\visual studio 2015\Projects\ResponseTimeLaw\ResponseTimeLaw\bin\Debug\ResponseTimeLaw.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ResponseTimeLaw\ResponseTimeLaw\obj\Debug\ResponseTimeLaw.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\ResponseTimeLaw\ResponseTimeLaw\obj\Debug\ResponseTimeLaw.exe
+c:\users\admin\documents\visual studio 2015\Projects\ResponseTimeLaw\ResponseTimeLaw\obj\Debug\ResponseTimeLaw.pdb
